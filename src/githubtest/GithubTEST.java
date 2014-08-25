@@ -17,7 +17,10 @@ public class GithubTEST {
      */
     public static void main(String[] args) {
         System.out.println("TEST");
-        // TODO code application logic here
+       
+        String name = "Hej";
+        
+        System.out.println(name);
     }
     
 }
