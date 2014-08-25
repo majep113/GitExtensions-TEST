@@ -21,6 +21,8 @@ public class GithubTEST {
         String name = "Hej";
         
         System.out.println(name);
+        
+        System.out.println("Pølsemand");
     }
     
 }
